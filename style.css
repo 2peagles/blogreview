@@ -36,7 +36,7 @@ section{
 }
 .section_content{
     display: grid;
-    gap:24px;
+    gap:12px;
 }
 button{
     background-color: #F4D04E;
