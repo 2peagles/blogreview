@@ -22,7 +22,7 @@ body{
         line-height: 150%;
     /* 24px */
 }
-section{
+main{
     background-color: #fff;
     border-radius: 20px;
     border: 1px solid var(--Black, #111);
